@@ -1,10 +1,15 @@
 .header{
-    height: 100px;
+    height: 200px;
     background-color: black;
     border: solid red 1px;
+    display: grid;
+    grid-template-columns: 101px auto;
 }
 .pictureDiv{
-    height: 100px;
+    grid-column: 1;
+    align-items: left;
+    height: 200px;
+    width: 135.57px;
 }
 .profile{
     height: 50%;

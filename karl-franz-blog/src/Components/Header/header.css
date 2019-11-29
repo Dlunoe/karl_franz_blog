@@ -1,0 +1,12 @@
+.header{
+    height: 100px;
+    background-color: black;
+    border: solid red 1px;
+}
+.pictureDiv{
+    height: 100px;
+}
+.profile{
+    height: 50%;
+    width: 50%;
+}

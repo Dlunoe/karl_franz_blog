@@ -4,10 +4,11 @@ import profilePic from './smile.jpg';
 const Header=()=>{
 
         return(
-            <div class="header">
-                <div class="picture">
-                    <img src={profilePic} />
+            <div className="header">
+                <div className="pictureDiv">
+                    <img className="profile" src={profilePic} alt="profile" style={{height: '150px', width: '101.68px'}}/>
                 </div>
+
 
             </div>
         )

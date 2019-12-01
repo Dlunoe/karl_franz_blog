@@ -5,6 +5,7 @@
     border: solid red 1px;
     display: grid;
     grid-template-columns: 101px auto;
+    flex: 100%;
 }
 .pictureDiv{
     grid-column: 1;

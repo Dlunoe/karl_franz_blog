@@ -1,14 +1,15 @@
 .App {
   text-align: center;
-  display: flex;
+}
+.mainContainer{
   background: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=ancient-antique-art-235985.jpg&fm=jpg);
+  display: flex;
   background-position: absolute;
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: stretch;
   background-size:stretch;
 }
-
 .homeDiv{
   height: 100%;
   width: 100%;

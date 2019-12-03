@@ -9,6 +9,8 @@
   background-attachment: fixed;
   height: stretch;
   background-size:stretch;
+  -webkit-flex: auto;
+  overflow-y: auto;
 }
 .homeDiv{
   height: 100%;

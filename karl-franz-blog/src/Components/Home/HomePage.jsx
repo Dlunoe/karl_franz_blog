@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import '../../App.css'
+import '../../App.css';
+import './home.css';
 import smile from '../Header/smile.jpg';
 
 class HomePage extends Component{

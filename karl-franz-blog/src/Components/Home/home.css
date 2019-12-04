@@ -5,11 +5,21 @@
 }
 .homeDiv{
     background: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=ancient-antique-art-235985.jpg&fm=jpg);
-  background-position: absolute;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: stretch;
-  background-size:stretch;
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: stretch;
+    background-size:stretch;
     -webkit-flex: auto;
     overflow-y: auto;
+}
+.hrDivider{
+    margin: 0 auto;
+    width:80%;
+    height:40px;
+    background-image: url(Imperial_Cross.jpg);
+    background-size: 40px;
+}
+hr{
+    
 }

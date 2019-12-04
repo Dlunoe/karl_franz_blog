@@ -3,3 +3,13 @@
     width: 80%;
     margin: 10px auto;
 }
+.homeDiv{
+    background: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=ancient-antique-art-235985.jpg&fm=jpg);
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: stretch;
+  background-size:stretch;
+    -webkit-flex: auto;
+    overflow-y: auto;
+}

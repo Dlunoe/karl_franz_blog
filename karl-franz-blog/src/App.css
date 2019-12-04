@@ -2,15 +2,7 @@
   text-align: center;
 }
 .mainContainer{
-  background: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=ancient-antique-art-235985.jpg&fm=jpg);
   display: flex;
-  background-position: absolute;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: stretch;
-  background-size:stretch;
-  -webkit-flex: auto;
-  overflow-y: auto;
 }
 .homeDiv{
   height: 100%;
